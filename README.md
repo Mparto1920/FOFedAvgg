@@ -1,1 +1,1 @@
-# FOFedAvgg
+# Fractional FedAvg
